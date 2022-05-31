@@ -1,0 +1,1 @@
+To run the maze solver, run the file on VSCode and click run on any file.
